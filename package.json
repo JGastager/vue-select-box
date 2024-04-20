@@ -1,5 +1,5 @@
 {
-  "name": "vue-select-box",
+  "name": "@jgastager/vue-select-box",
   "version": "1.0.0",
   "description": "Simple Vue select box component that is easy to restyle and accessibility friendly.",
   "main": "dist/in-viewport.js",
