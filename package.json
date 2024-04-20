@@ -1,0 +1,28 @@
+{
+  "name": "vue-select-box",
+  "version": "1.0.0",
+  "description": "Simple Vue select box component that is easy to restyle and accessibility friendly.",
+  "main": "dist/in-viewport.js",
+  "scripts": {
+    "build": "rm -rf dist && mkdir dist && cp -R src/. dist && mv dist/VueSelectBox.vue."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGastager/vue-select-box.git"
+  },
+  "keywords": [
+    "Vue 3",
+    "select box"
+  ],
+  "author": "Jonathan Gastager",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JGastager/vue-select-box/issues"
+  },
+  "homepage": "https://github.com/JGastager/vue-select-box#readme",
+  "peerDependencies": {
+    "vue": "^3.x.x"
+  },
+  "devDependencies": {
+  }
+}
