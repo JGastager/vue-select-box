@@ -5,5 +5,5 @@
 ## Installation
 
 ```Bash
-npm install vue-select-box
+npm install @jgastager/vue-select-box
 ```
